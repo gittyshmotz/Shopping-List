@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\shoppinglistapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:shoppinglistapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\controllers\\shoppinglistapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:controllers\\shoppinglistapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|c:\\users\\user\\desktop\\sopping_list\\shoppinglistapi\\shoppinglistapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ABE1F48-9284-4EAB-966F-4784B6B9988D}|ShoppingListAPI.csproj|solutionrelative:shoppinglistapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingListAPI.http",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\ShoppingListAPI.http",
+              "RelativeDocumentMoniker": "ShoppingListAPI.http",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\ShoppingListAPI.http",
+              "RelativeToolTip": "ShoppingListAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-26T06:06:17.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:20:50.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:16:38.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T06:26:28.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingListAPI.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Controllers\\ShoppingListAPI.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingListAPI.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Controllers\\ShoppingListAPI.cs",
+              "RelativeToolTip": "Controllers\\ShoppingListAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:36:52.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:00:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T17:55:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:53:42.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingListAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\ShoppingListAPI.csproj",
+              "RelativeDocumentMoniker": "ShoppingListAPI.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\ShoppingListAPI.csproj",
+              "RelativeToolTip": "ShoppingListAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T17:40:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Sopping_List\\ShoppingListAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:39:38.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

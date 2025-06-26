@@ -1,0 +1,19 @@
+# Backend
+ShoppingListAPI/bin/
+ShoppingListAPI/obj/
+ShoppingListAPI/.vs/
+*.suo
+*.user
+*.cache
+
+# Node Modules
+shopping-list/node_modules/
+shopping-list/dist/
+shopping-list/.env
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
